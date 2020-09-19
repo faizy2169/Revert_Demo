@@ -5,4 +5,4 @@
 *I am multiiple
 lines of italic*
 ~~I am strikethrough~~
-***~~Bold Italic Strikethrough ~~***
+***~~Bold Italic Strikethrough~~***

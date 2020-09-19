@@ -13,6 +13,6 @@ The links to [Google](http://www.google.com)
 2. Two
 3. Three
 
-[x] One
-[] Two
-[] Three
+- [x] One
+- [ ] Two
+- [ ] Three

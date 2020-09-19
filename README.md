@@ -1,6 +1,6 @@
-#### Style
-# Bold 
-**I am Bold**
-> *I an italic*
-> ~~I am strikethrough~~
-> ***~~Bold Italic Strikethrough~~***
+#Some basic commands are as follows
+```
+git status
+git log
+git branch
+```

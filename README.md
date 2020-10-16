@@ -15,6 +15,6 @@ Go the web page [Yahoo](https://www.yahoomail.com)
 2. Three
 3. Three
 
-- [] One
+- [ ] One
 - [x] Two
-- [] Three
+- [ ] Three
